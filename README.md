@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-viniciusmedeiros2571@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmedeiros2571@gmail.com)](mailto:viniciusmedeiros2571@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Vinícius M. Wanderley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-wanderley/)](https://www.linkedin.com/in/vinicius-wanderley/)
+[![Gmail Badge](https://img.shields.io/badge/-viniciusmedeiros2571@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciusmedeiros2571@gmail.com)](mailto:viniciusmedeiros2571@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-ViníciusM.Wanderley-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-wanderley/)](https://www.linkedin.com/in/vinicius-wanderley/)
