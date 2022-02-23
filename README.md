@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Vinícius Wanderley
 ## Sobre mim
 
-> * Data Scientist
+> * Data Engineer
 > * Ciência da Computação, UFPB
 
 ## Interesses e Atuações
